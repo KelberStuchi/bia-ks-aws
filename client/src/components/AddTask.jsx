@@ -58,8 +58,8 @@ const AddTask = ({ onAdd }) => {
         <label htmlFor="importante">Importante</label>
       </div>
       
-      <button type="submit" className="btn btn-block success">
-        Add New Task
+      <button type="submit" className="btn btn-block info">
+        Add New Task by KS
       </button>
       
       <Modal
